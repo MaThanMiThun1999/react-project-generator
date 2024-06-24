@@ -30,7 +30,7 @@ This repository contains a shell script to automate the setup of a new React pro
 
 3. Run the script and follow the prompts to enter your project name:
     ```bash
-    sudo ./project-generator.sh
+    ./project-generator.sh
     ```
 
 4. The script will:
